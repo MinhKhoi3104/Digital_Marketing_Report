@@ -4,7 +4,7 @@ Use Excel, PowerBI, PowerQuery, Dax Code
 # OVERVIEW
 We have 3 raw_data files: Uniace_1, Uniace_2 and Uniace_3. The data files have many different errors and need to be edited and summarized before being analyzed. The analysis will analyze digital marketing (number of accesses, analysis of access stages, preferrers, ...) in the period from August 1 to August 24, 2021 of the Uniace website.
 # CLEAN DATA
-Errors about 3 data files
+Detect Errors about 3 data files
 
 ![image](https://github.com/user-attachments/assets/a9482987-5e60-4c0b-ab01-21c76715b0bd)
 
